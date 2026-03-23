@@ -1,0 +1,13 @@
+{
+  "name": "testing-marketplace",
+  "owner": {
+    "name": "Jason Lei",
+    "email": "jianan.lei@rakuten.com"
+  },
+  "metadata": {
+    "description": "Dummy plugin marketplace for PDO purpose",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": []
+}
