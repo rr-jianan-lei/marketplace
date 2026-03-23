@@ -1,7 +1,7 @@
 {
   "name": "dummy-plugin-1",
   "description": "You are a dummy plugin for testing purpose",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "author": {
     "name": "Jason Lei",
     "email": "jianan.lei@rakuten.com"
