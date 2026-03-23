@@ -12,7 +12,7 @@
   "plugins": [
      {
        "name": "dummy-plugin-1",
-       "source": "./plugin/dummy-plugin-1"
+       "source": "./plugins/dummy-plugin-1"
      }
   ]
 }
