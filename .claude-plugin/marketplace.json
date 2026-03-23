@@ -9,5 +9,10 @@
     "version": "1.0.0",
     "pluginRoot": "./plugins"
   },
-  "plugins": []
+  "plugins": [
+     {
+       "name": "dummy-plugin-1",
+       "source": "./plugin/dummy-plugin-1"
+     }
+  ]
 }
